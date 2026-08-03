@@ -176,8 +176,7 @@ My objective is to help organisations adopt AI responsibly by improving work pro
 
 **LinkedIn**
 
-[Juan Hernandez-Moreno](https://www.linkedin.com/in/computational-economist/))
-
+[Juan Hernandez-Moreno](https://www.linkedin.com/in/computational-economist/)
 **Workshop Portfolio (PDF)**
 
 *(Insert LinkedIn Featured PDF link)*
