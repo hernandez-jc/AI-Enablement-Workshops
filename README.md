@@ -150,6 +150,12 @@ See how the MoodleCloud platform supports interactive learning, task analysis, a
 - 📄 [Workshop Deliverables](docs/Workshop-Deliverables.md)
 
 Discover the practical resources participants create throughout the workshop, from task analysis and prompt logs to AI-supported workflows and personal adoption plans.
+---
+### 6. Supporting Sustainable AI Adoption
+
+- 🔄 [ADKAR Throughout the Learning Journey](docs/ADKAR-in-the-Workshop.md)
+
+See how the workshop embeds the Prosci ADKAR Model into learning activities, helping participants progress from awareness to sustained workplace adoption.
 
 ---
 # About
