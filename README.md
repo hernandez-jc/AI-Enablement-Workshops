@@ -1,5 +1,3 @@
-# AI-Enablement-Workshops
-Practical AI Enablement workshop and methodology designed to help organisations move from AI experimentation to sustainable workplace adoption.
 # AI Enablement Workshop
 ## A Task-Centred Framework for Practical AI Adoption
 
@@ -9,19 +7,50 @@ Practical AI Enablement workshop and methodology designed to help organisations 
 
 ## Overview
 
-This repository presents an independent AI Enablement framework that I designed to help professionals and organisations integrate AI into everyday work through practical learning, facilitation, and change management.
+This repository showcases an independent AI Enablement framework designed to help organisations integrate AI into everyday work through facilitation, structured task analysis, and change management.
 
-The workshop was developed in response to a simple observation: many AI training programmes focus primarily on tools and prompt writing, while organisations need employees to improve business processes and adopt AI responsibly within their own work.
+Rather than starting with AI tools, the workshop begins with workplace tasks. Participants identify meaningful opportunities for AI, evaluate where human judgement remains essential, design practical AI-supported workflows, and develop realistic adoption plans that can be applied after the workshop.
 
-Rather than beginning with technology, this framework starts with workplace tasks.
-
-Participants identify meaningful opportunities for AI, build practical workflows, evaluate AI outputs, and develop realistic adoption plans that can be implemented after the workshop.
-
-The framework has been implemented through private executive coaching and was intentionally designed to scale to team and organisational learning environments.
+The methodology has been refined through private executive coaching and implemented within a MoodleCloud learning environment. It was designed from the outset to support scalable organisational learning.
 
 ---
 
-# The Workshop Philosophy
+# Workshop at a Glance
+
+### 👥 Target Audience
+
+Designed for knowledge workers, team leaders, managers, and learning professionals seeking practical AI adoption.
+
+Suitable for organisations operating in professional and highly regulated environments, including finance, insurance, consulting, healthcare, government, and other sectors where responsible AI, governance, compliance, and human oversight are essential.
+
+### ⏱ Delivery
+
+- Half-day workshop
+- Full-day workshop
+- Multi-session programme
+- Executive coaching
+- Moodle-supported blended learning
+
+### 🎯 Learning Outcomes
+
+Participants learn to:
+
+- analyse work tasks for AI opportunities
+- distinguish between automation, augmentation, and human control
+- select appropriate AI tools
+- design effective prompts
+- critically evaluate AI outputs
+- document AI-supported workflows
+- apply responsible AI practices
+- develop practical adoption plans
+
+### 🔄 Workshop Methodology
+
+**Work Task → Opportunity → AI Tool → Prompt → Evaluation → Workflow → Adoption**
+
+---
+
+# Workshop Philosophy
 
 Many AI workshops follow this sequence:
 
@@ -31,11 +60,9 @@ This workshop follows a different learning journey:
 
 **Work Task → Opportunity → AI Tool → Prompt → Evaluation → Workflow → Adoption**
 
-This reflects how organisations typically implement AI.
+The distinction is intentional.
 
-Technology supports work.
-
-It should not drive it.
+Successful AI adoption begins with improving work—not introducing technology.
 
 ---
 
@@ -44,325 +71,99 @@ It should not drive it.
 - Task-centred AI Enablement methodology
 - MoodleCloud learning environment
 - O*NET-based occupational task analysis
-- Interactive, facilitation-led workshop design
-- AI workflow documentation
+- Interactive facilitation and guided discovery
+- AI workflow design
 - Responsible AI practices
 - Prosci ADKAR change management integration
 - Learning analytics and authentic assessment
-- Executive coaching experience used to refine activities and materials
+- Executive coaching experience informing workshop design
 
 ---
 
-# Learning Outcomes
+# Distinctive Approach
 
-Participants learn to:
+One of the distinguishing features of this framework is an independently developed methodology that connects occupational tasks with AI opportunities.
 
-- identify work tasks suitable for AI support
-- analyse where AI creates value
-- select appropriate AI tools
-- develop effective prompts
-- evaluate AI outputs critically
-- document practical AI workflows
-- apply responsible AI practices
-- create a personal AI adoption plan
+Using occupational data from the O*NET framework, I created a Moodle-supported resource capable of analysing more than **90,000 occupational task identifiers**.
 
----
-
-# Workshop Design Principles
-
-The workshop reflects my background in:
-
-- Facilitation and adult learning
-- Instructional design
-- Digital education (DigCompEdu)
-- Learning analytics
-- Economics and task analysis
-- AI Enablement
-- Change management
-
-Rather than relying on lectures, participants learn through guided exploration, discussion, experimentation, reflection, and authentic workplace activities.
-
----
-
-# Moodle Implementation
-
-The workshop is supported by a MoodleCloud platform containing:
-
-- interactive learning activities
-- guided workplace analysis
-- workflow templates
-- prompt documentation
-- reflection activities
-- reusable learning resources
-
-The digital environment supports both facilitated workshops and independent learning.
-
----
-
-# O*NET Task Analysis Framework
-
-One of the distinguishing features of this project is an independently developed framework that connects occupational tasks to AI opportunities.
-
-Using occupational data from the O*NET framework, I implemented a Moodle-based resource supporting the analysis of more than 90,000 occupational task identifiers.
-
-Rather than asking:
+Instead of asking:
 
 *"What can this AI tool do?"*
 
 participants begin with:
 
-*"Which work task am I trying to improve?"*
+*"Which work task are we trying to improve?"*
 
-This approach helps ensure AI adoption remains connected to real business needs.
-
----
-
-# Change Management
-
-The workshop integrates principles from the Prosci ADKAR Model.
-
-Participants progress through:
-
-- Awareness
-- Desire
-- Knowledge
-- Ability
-- Reinforcement
-
-This helps move learners beyond initial experimentation towards sustainable AI adoption.
+This helps ensure AI adoption remains connected to business objectives, productivity, and responsible implementation.
 
 ---
 
 # Current Status
 
-This project has been developed independently and has been applied in private executive coaching engagements to refine activities, learning materials, and facilitation methods.
+The workshop has been developed independently and refined through private executive coaching engagements.
 
-Although it has not yet been deployed as a large-scale corporate programme, the methodology, Moodle implementation, and supporting resources were designed with organisational scalability in mind.
-
----
-
-# Repository Contents
-
-| Folder | Description |
-|----------|-------------|
-| docs | Workshop portfolio, facilitator guide, supporting documents |
-| images | Moodle screenshots, diagrams and framework visuals |
-| examples | Sample templates and learning activities |
+Although it has not yet been delivered as a large-scale corporate programme, the methodology, Moodle implementation, workshop resources, and facilitation approach were intentionally designed to support organisational rollout and adaptation.
 
 ---
 
-# About Me
+# Explore the Framework
 
-My work combines facilitation, instructional design, digital education, workforce analysis, learning analytics, and AI Enablement.
+Follow the learning journey to see how participants progress from analysing workplace tasks to designing practical AI-supported workflows.
 
-My objective is to help organisations adopt AI in ways that are practical, measurable, and centred on improving work rather than simply introducing new technology.
+### 1. Understanding the Framework
 
----
+📘 [Task-Level AI Opportunity Analysis](docs/Task-Level-Analysis.md)
 
-## Contact
-
-LinkedIn:
-*(# AI Enablement Workshop
-## A Task-Centred Framework for Practical AI Adoption
-
-> Helping organisations move from AI experimentation to sustainable workplace adoption.
+Learn how participants analyse occupational tasks using structured AI opportunity reports.
 
 ---
 
-## Overview
+### 2. Learning Through Facilitation
 
-This repository presents an independent AI Enablement framework that I designed to help professionals and organisations integrate AI into everyday work through practical learning, facilitation, and change management.
+💬 [Using the Task-Level Report During the Workshop](docs/Using-the-Report.md)
 
-The workshop was developed in response to a simple observation: many AI training programmes focus primarily on tools and prompt writing, while organisations need employees to improve business processes and adopt AI responsibly within their own work.
-
-Rather than beginning with technology, this framework starts with workplace tasks.
-
-Participants identify meaningful opportunities for AI, build practical workflows, evaluate AI outputs, and develop realistic adoption plans that can be implemented after the workshop.
-
-The framework has been implemented through private executive coaching and was intentionally designed to scale to team and organisational learning environments.
+See how structured reports become the foundation for discussion, reflection, and workflow design.
 
 ---
 
-# The Workshop Philosophy
+### 3. Learning by Doing
 
-Many AI workshops follow this sequence:
+🛠️ [Workshop Activities](docs/Workshop-Activities.md)
 
-**Tool → Features → Prompts → Practice**
-
-This workshop follows a different learning journey:
-
-**Work Task → Opportunity → AI Tool → Prompt → Evaluation → Workflow → Adoption**
-
-This reflects how organisations typically implement AI.
-
-Technology supports work.
-
-It should not drive it.
+Explore the learner journey from task analysis to workflow development and adoption planning.
 
 ---
 
-# Key Features
+### 4. Digital Learning Environment
 
-- Task-centred AI Enablement methodology
-- MoodleCloud learning environment
-- O*NET-based occupational task analysis
-- Interactive, facilitation-led workshop design
-- AI workflow documentation
-- Responsible AI practices
-- Prosci ADKAR change management integration
-- Learning analytics and authentic assessment
-- Executive coaching experience used to refine activities and materials
+💻 [Moodle Learning Environment](docs/Moodle-Learning-Environment.md)
+
+See how the MoodleCloud platform supports interactive learning, task analysis, and AI workflow development.
 
 ---
 
-# Learning Outcomes
-
-Participants learn to:
-
-- identify work tasks suitable for AI support
-- analyse where AI creates value
-- select appropriate AI tools
-- develop effective prompts
-- evaluate AI outputs critically
-- document practical AI workflows
-- apply responsible AI practices
-- create a personal AI adoption plan
+*Additional workshop examples, participant resources, and implementation materials will be added as the project evolves.*
 
 ---
 
-# Workshop Design Principles
+# About
 
-The workshop reflects my background in:
+I design practical AI Enablement experiences that combine facilitation, instructional design, workforce analysis, learning analytics, and change management.
 
-- Facilitation and adult learning
-- Instructional design
-- Digital education (DigCompEdu)
-- Learning analytics
-- Economics and task analysis
-- AI Enablement
-- Change management
-
-Rather than relying on lectures, participants learn through guided exploration, discussion, experimentation, reflection, and authentic workplace activities.
-
----
-
-# Moodle Implementation
-
-The workshop is supported by a MoodleCloud platform containing:
-
-- interactive learning activities
-- guided workplace analysis
-- workflow templates
-- prompt documentation
-- reflection activities
-- reusable learning resources
-
-The digital environment supports both facilitated workshops and independent learning.
-
----
-
-# O*NET Task Analysis Framework
-
-One of the distinguishing features of this project is an independently developed framework that connects occupational tasks to AI opportunities.
-
-Using occupational data from the O*NET framework, I implemented a Moodle-based resource supporting the analysis of more than 90,000 occupational task identifiers.
-
-Rather than asking:
-
-*"What can this AI tool do?"*
-
-participants begin with:
-
-*"Which work task am I trying to improve?"*
-
-This approach helps ensure AI adoption remains connected to real business needs.
-
----
-
-# Change Management
-
-The workshop integrates principles from the Prosci ADKAR Model.
-
-Participants progress through:
-
-- Awareness
-- Desire
-- Knowledge
-- Ability
-- Reinforcement
-
-This helps move learners beyond initial experimentation towards sustainable AI adoption.
-
----
-
-# Current Status
-
-This project has been developed independently and has been applied in private executive coaching engagements to refine activities, learning materials, and facilitation methods.
-
-Although it has not yet been deployed as a large-scale corporate programme, the methodology, Moodle implementation, and supporting resources were designed with organisational scalability in mind.
-
----
-
-# Repository Contents
-
-| Folder | Description |
-|----------|-------------|
-| docs | Workshop portfolio, facilitator guide, supporting documents |
-| images | Moodle screenshots, diagrams and framework visuals |
-| examples | Sample templates and learning activities |
-
----
-
-# About Me
-
-My work combines facilitation, instructional design, digital education, workforce analysis, learning analytics, and AI Enablement.
-
-My objective is to help organisations adopt AI in ways that are practical, measurable, and centred on improving work rather than simply introducing new technology.
+My objective is to help organisations adopt AI responsibly by improving work processes, supporting informed decision making, and building sustainable organisational capability.
 
 ---
 
 ## Contact
 
-LinkedIn:
-*([Juan Hernandez-Moreno](https://www.linkedin.com/in/computational-economist/))*
+**LinkedIn**
 
-Workshop Portfolio:
+[Juan Hernandez-Moreno](https://www.linkedin.com/in/computational-economist/))
+
+**Workshop Portfolio (PDF)**
+
 *(Insert LinkedIn Featured PDF link)*
-
-GitHub Repository:
-*(Current repository)*
 
 ---
 
-*This repository documents an independent AI Enablement initiative created for professional learning, executive coaching, and future organisational implementation. No confidential client information is included.*)*
-
-Workshop Portfolio:
-*(Insert LinkedIn Featured PDF link)*
-
-GitHub Repository:
-*(Current repository)*
-
-## Repository Contents
-
-This repository contains examples of the workshop methodology and participant resources.
-
-### Documentation
-
-- 📘 [Task-Level AI Opportunity Analysis](docs/Task-Level-Analysis.md)
-- ## Repository Contents
-
-This repository contains examples of the workshop methodology and participant resources.
-
-### Documentation
-
-📘 **Workshop Methodology** - Learning by doing
-
-- [Task-Level AI Opportunity Analysis](docs/Task-Level-Analysis.md)
-- [Using the Task-Level Report During the Workshop](docs/Using-the-Report.md)
-- [Workshop Activities](docs/Workshop-Activities.md)
-
-*(Additional workshop resources will be added as the project evolves.)*
-
-*(Additional workshop resources will be added over time.)*
-
-*This repository documents an independent AI Enablement initiative created for professional learning, executive coaching, and future organisational implementation. No confidential client information is included.*
+*This repository documents an independent AI Enablement initiative developed for professional learning, executive coaching, and future organisational implementation. No confidential client information is included.*
