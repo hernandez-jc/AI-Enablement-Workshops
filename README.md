@@ -342,6 +342,14 @@ Workshop Portfolio:
 GitHub Repository:
 *(Current repository)*
 
----
+## Repository Contents
+
+This repository contains examples of the workshop methodology and participant resources.
+
+### Documentation
+
+- 📘 [Task-Level AI Opportunity Analysis](docs/Task-Level-Analysis.md)
+
+*(Additional workshop resources will be added over time.)*
 
 *This repository documents an independent AI Enablement initiative created for professional learning, executive coaching, and future organisational implementation. No confidential client information is included.*
