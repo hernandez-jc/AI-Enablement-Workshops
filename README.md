@@ -355,10 +355,11 @@ This repository contains examples of the workshop methodology and participant re
 
 ### Documentation
 
-📘 **Workshop Methodology**
+📘 **Workshop Methodology** - Learning by doing
 
 - [Task-Level AI Opportunity Analysis](docs/Task-Level-Analysis.md)
 - [Using the Task-Level Report During the Workshop](docs/Using-the-Report.md)
+- [Workshop Activities](docs/Workshop-Activities.md)
 
 *(Additional workshop resources will be added as the project evolves.)*
 
