@@ -156,6 +156,12 @@ Discover the practical resources participants create throughout the workshop, fr
 - 🔄 [ADKAR Throughout the Learning Journey](docs/ADKAR-in-the-Workshop.md)
 
 See how the workshop embeds the Prosci ADKAR Model into learning activities, helping participants progress from awareness to sustained workplace adoption.
+--
+### 7. Bespoke AI Enablement Engagements
+
+- 🤝 [Bespoke AI Enablement Engagements](docs/Bespoke-AI-Enablement-Engagements.md)
+
+See how the framework can be tailored to different industries, business functions, organisational priorities, and levels of AI maturity while maintaining a consistent task-centred methodology.
 
 ---
 # About
