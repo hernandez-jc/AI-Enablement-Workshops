@@ -77,7 +77,7 @@ Typical discussion questions include:
 
 ## Reasoning Profile
 
-![Reasoning Profile](../images/radar-chart.png)
+![Reasoning Profile](../images/reasoning-profile.png)
 
 The radar chart summarises the average reasoning profile across the occupation using six analytical dimensions.
 
