@@ -10,7 +10,7 @@ The objective is to create an environment where participants actively build AI c
 
 # Interactive Task Analysis Workspace
 
-![Task Analysis Workspace](../images/TaskLenseAI.jpg)
+![Task Analysis Workspace](../images/tasklenseai.jpg)
 
 One of the core workshop activities uses an interactive task analysis workspace.
 
