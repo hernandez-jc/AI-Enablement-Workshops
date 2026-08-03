@@ -145,7 +145,13 @@ See how the MoodleCloud platform supports interactive learning, task analysis, a
 *Additional workshop examples, participant resources, and implementation materials will be added as the project evolves.*
 
 ---
+### 5. Practical Workshop Outputs
 
+- 📄 [Workshop Deliverables](docs/Workshop-Deliverables.md)
+
+Discover the practical resources participants create throughout the workshop, from task analysis and prompt logs to AI-supported workflows and personal adoption plans.
+
+---
 # About
 
 I design practical AI Enablement experiences that combine facilitation, instructional design, workforce analysis, learning analytics, and change management.
