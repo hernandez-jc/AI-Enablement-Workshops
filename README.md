@@ -349,6 +349,18 @@ This repository contains examples of the workshop methodology and participant re
 ### Documentation
 
 - 📘 [Task-Level AI Opportunity Analysis](docs/Task-Level-Analysis.md)
+- ## Repository Contents
+
+This repository contains examples of the workshop methodology and participant resources.
+
+### Documentation
+
+📘 **Workshop Methodology**
+
+- [Task-Level AI Opportunity Analysis](docs/Task-Level-Analysis.md)
+- [Using the Task-Level Report During the Workshop](docs/Using-the-Report.md)
+
+*(Additional workshop resources will be added as the project evolves.)*
 
 *(Additional workshop resources will be added over time.)*
 
