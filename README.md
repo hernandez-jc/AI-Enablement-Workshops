@@ -84,7 +84,7 @@ Successful AI adoption begins with improving work—not introducing technology.
 
 One of the distinguishing features of this framework is an independently developed methodology that connects occupational tasks with AI opportunities.
 
-Using occupational data from the O*NET framework, I created a Moodle-supported resource capable of analysing more than **90,000 occupational task identifiers**.
+Using occupational data from the O*NET framework, I created a Moodle-supported resource capable of analysing more than **19,000 occupational task identifiers**.
 
 Instead of asking:
 
